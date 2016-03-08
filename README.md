@@ -20,7 +20,7 @@ http://cx-extractor.googlecode.com/files/%E5%9F%BA%E4%BA%8E%E8%A1%8C%E5%9D%97%E5
 
 Perl 陈鑫xchen@ir.hit.edu.cn哈工大信息检索研究中心 
 
-Java 王利锋、罗磊{lfwang,lluo}@ir.hit.edu.cn哈工大信息检索研究中心 
+Java 王利锋lfwang@ir.hit.edu.cn、罗磊lluo@ir.hit.edu.cn哈工大信息检索研究中心 
 
 C++ 朱亮 zhuliang@software.ict.ac.cn中科院计算所高级网络重点实验室 
 
