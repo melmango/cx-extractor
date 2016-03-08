@@ -1,6 +1,8 @@
 
 原项目地址：https://code.google.com/archive/p/cx-extractor/
 
+Update：2016/03/08
+
 基于行块分布函数的通用网页正文抽取：线性时间、不建DOM树、与HTML标签无关
 
 对于Web信息检索来说，网页正文抽取是后续处理的关键。
@@ -21,7 +23,9 @@ PHP 轩文烽 xwf1788@gmail.com哈工大智能技术与自然语言处理研究�
 C# 张帆 zfannn@gmail.com中科院信息科学与工程学院
 
 如果您正在关注或使用cx-extractor，同时希望在第一时间得到该项目的更新信息，
-您可以加入该项目的邮件列表 http://list.qq.com/cgi-bin/qf_invite?id=2a19dc7f75fcba75ee9962adfcf5013e3154e3b92ef767a3'>http://list.qq.com/cgi-bin/qf_invite?id=2a19dc7f75fcba75ee9962adfcf5013e3154e3b92ef767a3
+您可以加入该项目的邮件列表 
+
+http://list.qq.com/cgi-bin/qf_invite?id=2a19dc7f75fcba75ee9962adfcf5013e3154e3b92ef767a3'>http://list.qq.com/cgi-bin/qf_invite?id=2a19dc7f75fcba75ee9962adfcf5013e3154e3b92ef767a3
 
 
 本软件的使用许可协议:http://cn.creativecommons.org/licenses/meet-the-licenses/'>署名-非商业性使用-相同方式共享 (by-nc-sa)，新浪微博
