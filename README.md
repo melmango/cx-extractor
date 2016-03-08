@@ -1,7 +1,7 @@
 
 原项目地址：https://code.google.com/archive/p/cx-extractor/
 
-Update：2016/03/08
+Last Update：2016/03/08
 
 基于行块分布函数的通用网页正文抽取：线性时间、不建DOM树、与HTML标签无关
 
